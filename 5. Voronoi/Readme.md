@@ -8,3 +8,5 @@ Here's a project for my geometric algorithms classes concerning the subject of V
 <a href="https://github.com/LucasJezap/GeometricAlgorithms/blob/master/5.%20Voronoi/math_helper.py"> Math  
 <a href="https://github.com/LucasJezap/GeometricAlgorithms/blob/master/5.%20Voronoi/voronoi.py"> Voronoi - main algorithm  
 <a href="https://github.com/LucasJezap/GeometricAlgorithms/blob/master/5.%20Voronoi/test.py"> Time tester  
+<a href="https://github.com/LucasJezap/GeometricAlgorithms/tree/master/5.%20Voronoi/WorseAlgorithm"> Worse algorithm  
+
