@@ -5,4 +5,4 @@ Here's the code from my Geometric Algorithms classes that took place on AGH Univ
 <a href="https://github.com/LucasJezap/GeometricAlgorithms/tree/master/2.%20Hull%20Convex"> Laboratories 2  
 <a href="https://github.com/LucasJezap/GeometricAlgorithms/tree/master/3.%20Intersections"> Laboratories 3  
 <a href="https://github.com/LucasJezap/GeometricAlgorithms/tree/master/4.%20Triangulation"> Laboratories 4  
-<a href="https://https://github.com/LucasJezap/GeometricAlgorithms/tree/master/5.%20Voronoi"> Voronoi Project  
+<a href="https://github.com/LucasJezap/GeometricAlgorithms/tree/master/5.%20Voronoi"> Voronoi Project  
